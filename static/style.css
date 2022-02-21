@@ -1,0 +1,49 @@
+
+
+h1, h2, p{
+    text-align: center;
+
+}
+
+.header{
+    width:100%;
+    position : relative;
+}
+.logo{
+    padding:28px 0;
+}
+.logo li{
+    display:inline-block;
+    margin: 0 13px;
+}
+.logo li a{
+    text-decoration :none;
+    color:#8B0000;
+    padding:5px 0;
+}
+
+
+
+
+.don{
+    background-color:#92a8d1;
+   ;
+}
+.donn{
+    background-color:	#B22222;
+    margin:0px;
+  padding:0px;
+}
+.yash{
+  background-color:	#8B0000;
+  margin:0px;
+  padding:0px;
+}
+.donnn{
+    background-color:#92a8d1;
+    margin:0px;
+  padding:0px;
+}
+button{
+    margin: 100px 0px 0px 100px;
+}
